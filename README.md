@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working on a bachelor's of science degree in information science with a minor in business at the Univeristy of Colorado Boulder.
+- 🔭 I'm currently working towards a bachelor's degree in information science with a business minor at the University of Colorado Boulder.
 - 👯 I'm looking to collaborate on projects in Java, JavaScript, Lua, C++, and C#.
 - 💬 Ask me about my coding experience with Devoxx4Kids.
 - 📫 How to reach me: jackjraible2@gmail.com
