@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working towards a bachelor's degree in information science with minors in business and sports media at the University of Colorado Boulder.
-- 💬 Ask me about my coding experience with Devoxx4Kids.
+- 🔭 I'm currently working towards a bachelor's degree in information science with minors in business analytics and sports media at the University of Colorado Boulder.
+- 💬 Ask me about my backend development experience work at Zeltoria.
 - 📫 How to reach me: jackjraible2@gmail.com
 - ⚡ Fun fact: I've been coding since I was ten years old.
